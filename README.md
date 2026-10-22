@@ -2,7 +2,7 @@
 
 **Accept international payments on a page that's yours.**
 
-[**▶ Live demo**](https://f8pay.vercel.app) · [More of my work](https://github.com/Legitimacy426) · [Hire me](mailto:fondoadam@f8ware.com)
+[**▶ Live demo**](https://f8pay.vercel.app) · [More of my work](https://github.com/fondoadam) · [Hire me](mailto:fondoadam@f8ware.com)
 
 [![f8 spot screenshot](screenshot.png)](https://f8pay.vercel.app)
 
@@ -28,4 +28,4 @@ I'm happy to walk through the architecture and code on a call. [Get in touch](ma
 
 ---
 
-Built by **[Fondo Adam](https://github.com/Legitimacy426)**: full-stack web & mobile engineer in Kenya. [Portfolio](https://fondoadam.f8ware.com)
+Built by **[Fondo Adam](https://github.com/fondoadam)**: full-stack web & mobile engineer in Kenya. [Portfolio](https://fondoadam.f8ware.com)
